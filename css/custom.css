@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar {
+    padding:10px;
+}
+
+
+.bi-facebook, .bi-instagram, .bi-twitter, .bi-youtube {
+    margin-left: +5px;
+}
+
+.bi-house {
+    margin-left: +10px;
+}
+
+.bi-box-arrow-left {
+    margin-left: +5px;
+}
+
+
+
